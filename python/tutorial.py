@@ -1,4 +1,5 @@
-a-[]
+import numpy
+a=[]
 a.append(1)
 a.append(2)
 distance=10
